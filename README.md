@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
 The project code is the outcome from Angular 17 tutorials from UDEMY, lecturer Maximilian Schwarzmüller.
-The course name at this date (18 June 2024) is: "Master Angular (formerly "Angular 2") and build awesome, reactive web apps with the successor of Angular.js".
+The course name at this date (18 June 2024) is: "Angular - The Complete Guide (2024 Edition)".
 
 ## Development server
 
