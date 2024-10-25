@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 The project code is the outcome from Angular 17 tutorials from UDEMY, lecturer Maximilian Schwarzmüller.
 The course name at this date (18 June 2024) is: "Angular - The Complete Guide (2024 Edition)".
 
+This version of the application was written using the Standalone syntax and converted to the Module syntax.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
